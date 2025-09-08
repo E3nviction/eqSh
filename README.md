@@ -6,6 +6,10 @@
 ---
 
 <p align="center">
+	USE https://github.com/eq-desktop/eqsh Instead.
+</p>
+
+<p align="center">
 	<img src="./assets/logo.svg" alt="eqSh Logo" width="160"/>
 </p>
 

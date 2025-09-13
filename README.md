@@ -6,7 +6,20 @@
 ---
 
 <p align="center">
-	USE https://github.com/eq-desktop/eqsh Instead.
+  <br/>
+  🚨🚨🚨  
+  <strong style="font-size: 1.4em; color: red;">
+    WARNING: This repository is no longer maintained, as we have switched to a new github organization!  
+  </strong>  
+  🚨🚨🚨  
+</p>
+
+<p align="center" style="font-size: 1.2em;">
+  👉 Please use the new link instead:  
+  <br/>
+  <a href="https://github.com/eq-desktop/eqsh">
+    <b>https://github.com/eq-desktop/eqsh</b>
+  </a>
 </p>
 
 <p align="center">
